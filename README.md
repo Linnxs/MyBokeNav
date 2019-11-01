@@ -8,7 +8,7 @@
 
 #### 在线演示地址
 
-https://www.wlinn.xyz/mybokenav/
+https://nav.wlinn.xyz/
 
 #### 下载地址（当前版本：v1.0.0）
 
